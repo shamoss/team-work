@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+.header-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+.header-image {
+    height: 300px;
+}
+
+.header-image2 {
+    height: 300px;
+}
+
+p{
+    color: aliceblue;
+}
